@@ -1,97 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2020-10-24T12:04:39.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="V7r5TBzv-CNX7WJFox28" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-24T13:52:21.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="mpsVLoMekAZ0c9KZLjxW" version="13.8.1" type="github">
   <diagram id="i5wmD65xaacf8iw_pDna" name="Page-1">
     <mxGraphModel dx="3422" dy="1450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1wbSLV42vPWjMkYklheP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fontColor=#E4FDE1;labelBackgroundColor=#114B5F;" parent="1" source="1wbSLV42vPWjMkYklheP-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="320" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1wbSLV42vPWjMkYklheP-4" target="1wbSLV42vPWjMkYklheP-462">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-2" value="&lt;h1&gt;A1. Meeting the voice&lt;/h1&gt;&lt;p&gt;All you see is white and nothing else.&amp;nbsp;&lt;/p&gt;&lt;p&gt;I don&#39;t remember anything at all&lt;/p&gt;&lt;p&gt;What am I? &quot;A human&quot;. An eerie voice responds.&lt;/p&gt;&lt;p&gt;This startled me and I started to frantically look around.&lt;/p&gt;&lt;p&gt;Press 1 to continue&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;strokeColor=#d6b656;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="195" y="20" width="470" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-433" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-4" target="1wbSLV42vPWjMkYklheP-431" edge="1">
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1wbSLV42vPWjMkYklheP-4" target="1wbSLV42vPWjMkYklheP-462">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wbSLV42vPWjMkYklheP-4" value="&lt;h1&gt;A2. Who AM I?&lt;/h1&gt;&lt;p&gt;This startled me and I started to frantically look around.&amp;nbsp;&lt;/p&gt;&lt;p&gt;I don&#39;t know who am I, I don&#39;t know what happened to me. Who is I? Who is me? What&#39;s a human? These questions rush to me, I can&#39;t help but be thrown into a pit of despair.&lt;/p&gt;&lt;p&gt;Until the voice says, now in a soothing voice, &quot;You&#39;re a &quot;Human&quot;, and you live on a planet known as &quot;Earth&quot;, or rather you used to do.&quot;&amp;nbsp;&lt;/p&gt;&lt;p&gt;I still have so many questions about what&#39;s what, then something happened, I felt as if everything in the world is known to me, every basic thing at least, I still&amp;nbsp;&lt;span&gt;don&#39;t know who I am but I have a grasp about what the world is about.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;Press 1 to continue&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="200" y="310" width="460" height="240" as="geometry" />
+          <mxGeometry x="-200" y="470" width="460" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-435" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-431" target="1wbSLV42vPWjMkYklheP-434" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1wbSLV42vPWjMkYklheP-435" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" target="1wbSLV42vPWjMkYklheP-434" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430.00000000000045" y="810" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-437" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-431" target="1wbSLV42vPWjMkYklheP-436" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1wbSLV42vPWjMkYklheP-444" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" target="1wbSLV42vPWjMkYklheP-443" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500.00000000000045" y="990" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-439" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-431" target="1wbSLV42vPWjMkYklheP-438" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1wbSLV42vPWjMkYklheP-446" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.466;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" target="1wbSLV42vPWjMkYklheP-445" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="774.9411764705883" y="990" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-431" value="&lt;h1&gt;A3. Choosing My Class&lt;/h1&gt;&lt;div&gt;&lt;div&gt;I was lost in thought until the voice interrupted me.&lt;/div&gt;&lt;div&gt;&quot;You have some choices, pick carefully. You can either be a mage, a warrior or an archer. They all have sub classes but that&#39;s not something you should worry about right now. You will shape it as you go on with your life&quot;&amp;nbsp;&lt;/div&gt;&lt;div&gt;The question put in a pedestal, this question was like life or death to me&lt;/div&gt;&lt;div&gt;even if I didn&#39;t know where I was going.&lt;/div&gt;&lt;div&gt;What should I do?&lt;/div&gt;&lt;div&gt;1.&amp;nbsp; Become a mage.&lt;/div&gt;&lt;div&gt;2.&amp;nbsp; Become a warrior.&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Become an archer.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="200" y="610" width="460" height="200" as="geometry" />
+        <mxCell id="1wbSLV42vPWjMkYklheP-449" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" target="1wbSLV42vPWjMkYklheP-448" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="1260" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-441" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-434" target="1wbSLV42vPWjMkYklheP-440" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1wbSLV42vPWjMkYklheP-452" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" target="1wbSLV42vPWjMkYklheP-450" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400.00000000000045" y="1270" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-434" value="&lt;h1&gt;B4. Mage&lt;/h1&gt;&lt;div&gt;I&amp;nbsp; guess I will go with mage cause why the hell not.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="10" y="860" width="330" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-444" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-436" target="1wbSLV42vPWjMkYklheP-443" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-436" value="&lt;h1&gt;A5. Warrior&lt;/h1&gt;&lt;div&gt;Hmm...&lt;/div&gt;&lt;div&gt;Thinking about it being a strong man is a real attractive thing...&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="370" y="860" width="260" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-446" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.466;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-438" target="1wbSLV42vPWjMkYklheP-445" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-438" value="&lt;h1&gt;C6. Archer&lt;/h1&gt;&lt;div&gt;Gonna go snipe some fellas out mate!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="640" y="860" width="270" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-449" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-440" target="1wbSLV42vPWjMkYklheP-448" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-440" value="&lt;h1&gt;B6. Stats for Mage&lt;/h1&gt;&lt;div&gt;Here are your Stats :-&amp;nbsp;&lt;/div&gt;&lt;div&gt;Might - 10&lt;/div&gt;&lt;div&gt;Dexterity - 12&lt;/div&gt;&lt;div&gt;Intelligence - 16&lt;/div&gt;&lt;div&gt;Faith - 15&lt;/div&gt;&lt;div&gt;HP - 50&lt;/div&gt;&lt;div&gt;MP - 25&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Sweet&quot;&lt;br&gt;&quot;So, &quot;Intelligence and faith has to do with Magic&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="1030" width="280" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-452" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-443" target="1wbSLV42vPWjMkYklheP-450" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-443" value="&lt;h1&gt;A7. Stats for Warrior&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Here are your Stats :-&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Might - 18&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Dexterity - 15&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Intelligence - 10&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Faith - 11&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;HP - 70&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;MP - 5&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&quot;Ey, that&#39;s quite a bit of might....&quot;&lt;br&gt;&quot;It might not be that much in the word I am going into&quot;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Press 1 to continue&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1030" width="300" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-454" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-445" target="1wbSLV42vPWjMkYklheP-453" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-445" value="&lt;h1&gt;C8. Stats for Archer&lt;/h1&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Here are your Stats :-&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Might - 14&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Dexterity - 18&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Intelligence - 11&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Faith - 12&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;HP - 55&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;MP - 10&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&quot;So I get speed to snipe people out huh, pretty great cause that&#39;s exactly what I wanted to do&quot;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Press 1 to continue&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="610" y="1030" width="300" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-466" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-448" target="1wbSLV42vPWjMkYklheP-462" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-448" value="&lt;h1&gt;A9. Skills for Mage&lt;/h1&gt;&lt;p&gt;1. Firebal&lt;/p&gt;&lt;p&gt;2. Light&lt;/p&gt;&lt;p&gt;3. Heal&lt;/p&gt;&lt;p&gt;&quot;So just basic things a mage needs, I really wanted something awesome right out the gate arghhh. Why do you have to make me work for it!?!?&quot;&lt;br&gt;&quot;Anyways, I will take it and won&#39;t throw childish tantrums.&quot;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;Press 1 to continue&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="1370" width="400" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-467" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-450" target="1wbSLV42vPWjMkYklheP-462" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-450" value="&lt;h1&gt;A10. Skills for Warrior&lt;br&gt;&lt;/h1&gt;&lt;div&gt;1. Quick Stabs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Heavy Strike&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. Counter Attack&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Alright, at least the attacks aren&#39;t that bad&quot;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1385" width="390" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-468" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-453" target="1wbSLV42vPWjMkYklheP-462" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-453" value="&lt;h1&gt;A11. Skills for Archer&lt;/h1&gt;&lt;div&gt;1. Quick Shots&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. Quick Draw&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3.&amp;nbsp; Sneak&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Alright mate, I get to be all sneaky and quick, what else can I ask for?&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="780" y="1390" width="340" height="195" as="geometry" />
+        <mxCell id="1wbSLV42vPWjMkYklheP-454" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" target="1wbSLV42vPWjMkYklheP-453" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760.0000000000005" y="1270" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1wbSLV42vPWjMkYklheP-471" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#028090;fillColor=#F45B69;fontColor=#E4FDE1;" parent="1" source="1wbSLV42vPWjMkYklheP-462" target="1wbSLV42vPWjMkYklheP-469" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1wbSLV42vPWjMkYklheP-462" value="&lt;h1&gt;A12. The Voice... Again....&lt;/h1&gt;&lt;div&gt;I was so focused on the question presented before me that I forgot all my worries but that didn&#39;t last too long and I am anxious again. I have to ask some question to that thing that was speaking to me before, what do I even call it, it doesn&#39;t have any shape or form. It only has a voice so I will call it the &quot;Voice&quot; for now.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Enough about that,&amp;nbsp; I have some questions for it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1810" width="550" height="190" as="geometry" />
+        <mxCell id="1wbSLV42vPWjMkYklheP-462" value="&lt;h1&gt;A12. The Voice... Again...&lt;/h1&gt;&lt;div&gt;I have to ask some question to that thing that was speaking to me before, what do I even call it, it doesn&#39;t have any shape or form. It only has a voice so I will call it the &quot;Voice&quot; for now.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Enough about that,&amp;nbsp; I have some questions for it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
+          <mxGeometry x="-245" y="920" width="550" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="1wbSLV42vPWjMkYklheP-469" target="SavE5UgR6Ch-Het4QDgw-198">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1wbSLV42vPWjMkYklheP-469" value="&lt;h1&gt;A13. Questions to be answered&lt;/h1&gt;&lt;div&gt;&quot;What happened to me?&quot; I ask the voice.&lt;/div&gt;&lt;div&gt;&quot;You died.&quot; T&lt;span&gt;he Voice replies with its soothing voice. Although there is some somberness to it.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&quot;I... died? So am I in heaven or something?&quot;&lt;/div&gt;&lt;div&gt;&quot;No, you&#39;re in limbo and I am the one who transfers souls to a new world.&quot;&lt;br&gt;&quot;So I get to go from Earth to a new place?&quot;&lt;/div&gt;&lt;div&gt;&quot;Yes, a world where you won&#39;t have time to be lazy.&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;gradientColor=#ffd966;" parent="1" vertex="1">
-          <mxGeometry x="230" y="2060" width="380" height="200" as="geometry" />
+          <mxGeometry x="-160" y="1230" width="380" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SavE5UgR6Ch-Het4QDgw-198" target="SavE5UgR6Ch-Het4QDgw-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-198" value="&lt;h1&gt;&lt;span&gt;A13.1&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span&gt;&quot;Lazy, was I lazy in my last life?&quot;&lt;br&gt;&quot;It seems you don&#39;t really have your memories back, well I think you should get them back as you go on with your life in the other world.&quot; The voice says as a bright light around us begins to turn into darkness.&lt;br&gt;&quot;Now go on ahead, to your new life.&quot;&lt;br&gt;&quot;But I have some ques-&quot; I tried to say that but I got thrown into this pit of darkness.&amp;nbsp;&lt;br&gt;&lt;br&gt;Press 1 to continue&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1600" width="350" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SavE5UgR6Ch-Het4QDgw-202" target="SavE5UgR6Ch-Het4QDgw-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-202" value="&lt;h1&gt;A14. Into The Dungeon&lt;br&gt;&lt;/h1&gt;&lt;div&gt;I don&#39;t know where I am as I got thrown into a pit of darkness so I have to rely on my senses.&lt;br&gt;I can hear some footsteps and some grunting and moaning.&lt;br&gt;&lt;/div&gt;&lt;div&gt;I could say this is a dungeon but I am not completely sure.&lt;/div&gt;&lt;div&gt;Touching the walls I can feel the rocky and uneven texture of the wall which is found mostly inside of caves, so my doubts about me being in a dungeon are cleared.&lt;br&gt;&quot;For God&#39;s sake, could you have at least put me in a city&quot; I cried in frustration.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-136.5" y="1920" width="343" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SavE5UgR6Ch-Het4QDgw-204" target="SavE5UgR6Ch-Het4QDgw-206">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-204" value="&lt;h1&gt;A15. Accessing the situation&lt;/h1&gt;&lt;div&gt;There&#39;s no point in getting frustrated about it all I need to do now is to get a weapon cause those grunting are definitely not coming from something human, and not to mention the horrid smell in the air.&lt;br&gt;I guide myself around the pit all while sitting close to a wall.&lt;br&gt;&quot;I can see light ahead&quot; I think to myself. I don&#39;t know whether it&#39;s from a monster camp or sun rays coming in from outside.&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-173.5" y="2300" width="380" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SavE5UgR6Ch-Het4QDgw-206" target="SavE5UgR6Ch-Het4QDgw-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-206" value="&lt;h1&gt;A16. Its definitely a monster camp&lt;/h1&gt;&lt;div&gt;I quietly move towards the source of light and to no one&#39;s surprise, it&#39;s actually a monster camp.&amp;nbsp;&lt;br&gt;I can see, 5 monsters and they aren&#39;t very well equipped but there are some weapons just to the right in a stack. These look monsters like goblins.&lt;br&gt;&quot;Well, I guess the voice did care about me and put me in a low-level dungeon huh?&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-146.5" y="2620" width="370" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.675;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SavE5UgR6Ch-Het4QDgw-208" target="SavE5UgR6Ch-Het4QDgw-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SavE5UgR6Ch-Het4QDgw-208" target="SavE5UgR6Ch-Het4QDgw-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-208" value="&lt;h1&gt;A17. Engaging the monsters&amp;nbsp;&lt;/h1&gt;&lt;div&gt;I can see 2 goblins standing by the stack and the rest are sitting around a campfire and are cooking something and I DON&#39;T want to know whatever in god&#39;s name they are cooking cause it smells like rotten eggs over here.&lt;/div&gt;&lt;div&gt;So I can either&lt;/div&gt;&lt;div&gt;1. Rush the 2 goblin&lt;br&gt;2. Throw a stone opposite the direction of the stack&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-136.5" y="2910" width="390" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SavE5UgR6Ch-Het4QDgw-210" target="SavE5UgR6Ch-Het4QDgw-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-210" value="&lt;h1&gt;A18. Rushing 2 goblins&lt;/h1&gt;&lt;div&gt;I rush the goblins and push one on top of the other and then quickly take a spear from the stack and got ready to impale it through their body.&lt;br&gt;But as I do it my hands tremble, can I really kill someone even if it&#39;s a monster. It has a life which isn&#39;t mine to take, it&#39;s its own person. Can I really do this?&lt;/div&gt;&lt;div&gt;As I was pondering the thought the goblin was starting to get up, I got frightened and quickly stab the goblin but that stab wasn&#39;t clean, it went right through its stomach causing him much more agony than it&#39;d have if I had stabbed him right through his heart.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="3180" width="330" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1wbSLV42vPWjMkYklheP-2" target="1wbSLV42vPWjMkYklheP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1wbSLV42vPWjMkYklheP-2" value="&lt;h1&gt;A1. Meeting the voice&lt;/h1&gt;&lt;p&gt;All you see is white and nothing else.&amp;nbsp;&lt;/p&gt;&lt;p&gt;I don&#39;t remember anything at all&lt;/p&gt;&lt;p&gt;What am I? &quot;A human&quot;. An eerie voice responds.&lt;/p&gt;&lt;p&gt;This startled me and I started to frantically look around.&lt;/p&gt;&lt;p&gt;Press 1 to continue&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;strokeColor=#d6b656;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="130" width="470" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1wbSLV42vPWjMkYklheP-469" target="1wbSLV42vPWjMkYklheP-469">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1wbSLV42vPWjMkYklheP-462" target="1wbSLV42vPWjMkYklheP-462">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SavE5UgR6Ch-Het4QDgw-221" target="SavE5UgR6Ch-Het4QDgw-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-221" value="&lt;h1&gt;A19. Throwing a stone&lt;/h1&gt;&lt;div&gt;I throw a stone at the wall opposite the stack, ever goblin&#39;s attention was then switched to the wall and they were searching for the source of the rock, I had to be quick about picking up a weapon. I saw a spear and picked it up cause it&#39;s going to be a perfect tool for throwing at enemies, as I threw the spear at the goblin standing at the back, the scene of blood spilling out of his body terrified me. Did I really just take a life? Even if it was a monster was it fair for me to take his life?&amp;nbsp;&lt;br&gt;I didn&#39;t have time to ponder about this question cause the goblins noticed me and started rushing me like hungry dogs.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3180" width="300" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SavE5UgR6Ch-Het4QDgw-226" target="SavE5UgR6Ch-Het4QDgw-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-226" value="&lt;h1&gt;A20. The first fight&lt;/h1&gt;&lt;div&gt;I take out the spear quickly, my hands still trembling.&lt;br&gt;I need to get a grip off myself, I notice that I also hit the goblin below the one I stabbed. I quickly turn to the three sitting around the campfire and as expected they noticed the intense shrieks let out by the goblins. I run over and stab one right through his heart this time but I wasn&#39;t able to take out the spear from his body.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="3520" width="320" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-228" value="&lt;h1&gt;A21. The First fight&amp;nbsp;&lt;/h1&gt;&lt;div&gt;I quickly run towards the side to separate the goblins from each other, albeit there being less space I can still get the slightest advantage over them. I quickly stop running and turn around to severe the head of one of the goblins who was right after me, for my surprise slicing its head was easier than I thought it would be. I don&#39;t take much time and quickly stab the next goblin in front of me and turn to the rest.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="135" y="3513" width="330" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SavE5UgR6Ch-Het4QDgw-230" target="SavE5UgR6Ch-Het4QDgw-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-230" value="&lt;h1&gt;A22. The Last Goblin&lt;/h1&gt;&lt;div&gt;I held the spear with a bit more strength and kicked the goblin in the chest making the spear come right out of his chest, I take time to balance myself and then quickly lunge at the next goblin but unfortunately, I wasn&#39;t able to get to him quick enough and we made a trade hit. I struck the spear right through his throat and the goblin managed to stab a knife right through the thigh, it barely missed my bone but the wound hurt like hell.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-282.5" y="3800" width="315" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SavE5UgR6Ch-Het4QDgw-232" target="SavE5UgR6Ch-Het4QDgw-233">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-232" value="&lt;h1&gt;A23. The last two goblins&lt;/h1&gt;&lt;div&gt;The last two are in frenzy, not knowing what to do. I quickly throw the spear at one of them and take the knife that one of the goblins was carrying and try to stab the last goblin right through his throat, unfortunately, he wasn&#39;t the only one who got stabbed, he stabbed me through my thigh as soon as I reached him. THIS STAB HURTS GOD DAMMIT. It just barely missed my bone.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Press 1 to continue&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="150" y="3810" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SavE5UgR6Ch-Het4QDgw-233" value="&lt;h1&gt;A30. The End of The Goblin Fight.&lt;/h1&gt;&lt;div&gt;I killed them, I killed them all but it was just for survival wasn&#39;t it? It wasn&#39;t because of bloodlust, was it? I know the answer but is it enough to justify killing them? I know that&#39;s how nature works, &quot;Survival of the fittest&quot;, but it still feels terrible to kill them. I have to get used to this feeling if I want to get out of this dungeon. But my hands are still trembling, I have to steady them.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The end for now.&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="-136.5" y="4140" width="460" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
